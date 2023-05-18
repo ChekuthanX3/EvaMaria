@@ -13,7 +13,7 @@ A BOT BY <a href=https://t.me/Lion_098765>CHEKUTHAN</a>"""
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v2.3 [ StaBLe ]"""
  
    #ALERT MSG PMFILTER
-    ABT_TXT = """✯ Mʏ Nᴀᴍᴇ: Kᴜᴛᴛᴜ Bᴏᴛ ™
+    ABT_TXT = """ My name
 
 ✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: 𝗥𝗦 CHEKUTHANᡃᡃᡃᡃᡃᡃᡃᡃᡃᡃᡃᡃᡃᡃᡃᡃᡃᡃᡃ 1.0ࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣧࣧࣧࣧࣧ⸙ꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋࣩࣩ
 
@@ -32,7 +32,7 @@ A BOT BY <a href=https://t.me/Lion_098765>CHEKUTHAN</a>"""
 - Source - https://github.com/  
 
 <b>DEVS:</b>
-- <a href=https://t.me/Lion_098765/4>CHEKUTHAN</a>"""
+- <a href=https://t.me/Lion_098765>CHEKUTHAN</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and This Bot will respond whenever a keyword is found the message
@@ -127,7 +127,7 @@ Request Again"""
 
     CHK_MOV_TXT = """ 𝖢𝗁𝖾𝖼𝗄𝗂𝗇𝗀 𝖿𝗈𝗋 𝗊𝗎𝖾𝗋𝗒 𝗂𝗇 𝖣𝖺𝗍𝖺𝖻𝖺𝗌𝖾 >>> """
     
-    MVE_NT_FND = """❌ <b>𝖨 𝖼𝗈𝗎𝗅𝖽𝗇'𝗍 𝖿𝗂𝗇𝖽 𝖺𝗇𝗒𝗍𝗁𝗂𝗇𝗀 𝗋𝖾𝗅𝖺𝗍𝖾𝖽 𝗍𝗈 𝗍𝗁𝖺𝗍</b>\n\n‼ <b><i>𝖱𝖾𝗉𝗈𝗋𝗍 𝗍𝗈 𝖺𝖽𝗆𝗂𝗇 ▶ @im_goutham_josh</i></b>"""
+    MVE_NT_FND = """❌ <b>𝖨 𝖼𝗈𝗎𝗅𝖽𝗇'𝗍 𝖿𝗂𝗇𝖽 𝖺𝗇𝗒𝗍𝗁𝗂𝗇𝗀 𝗋𝖾𝗅𝖺𝗍𝖾𝖽 𝗍𝗈 𝗍𝗁𝖺𝗍</b>\n\n‼ <b><i>𝖱𝖾𝗉𝗈𝗋𝗍 𝗍𝗈 𝖺𝖽𝗆𝗂𝗇 ▶ <a href=https://t.me/Lion_098765>Chekuthan </a> </i></b>"""
     
     SPOLL_NOT_FND = """ I Couldn't Find the FILE you requested
 Try to do the following...
