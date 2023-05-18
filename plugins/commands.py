@@ -47,7 +47,7 @@ async def start(client, message):
                     InlineKeyboardButton('Movie 𝖦𝗋𝗈𝗎𝗉', url='https://t.me/rrmovie0987')
                 ],[
                     InlineKeyboardButton('𝖧𝖾𝗅𝗉', callback_data='help'),
-                    InlineKeyboardButton('𝖠𝖻𝗈𝗎𝗍', callback_data='abt')
+                    InlineKeyboardButton('𝖠𝖻𝗈𝗎𝗍', callback_data='about_txt')
                   ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
