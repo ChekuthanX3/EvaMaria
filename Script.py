@@ -2,7 +2,7 @@ class script(object):
     START_TXT = """Hello {},
 My Name Is <a href=https://t.me/{}>{}</a>, I Can Provide Movies And Series,Just To Your Group And Enjoy 😍
 A BOT BY <a href=https://t.me/Lion_098765>CHEKUTHAN</a>
-<a href=https://t.me/rrmovie0987>Request group </a>
+<a href=https://t.me/rrmovie0987>Request group </a>"""
 
 
     HELP_TXT = """Hey {}
