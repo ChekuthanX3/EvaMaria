@@ -1,7 +1,10 @@
 class script(object):
     START_TXT = """Hello {},
 My Name Is <a href=https://t.me/{}>{}</a>, I Can Provide Movies And Series,Just To Your Group And Enjoy 😍
-A BOT BY <a href=https://t.me/Lion_098765>CHEKUTHAN</a>"""
+A BOT BY <a href=https://t.me/Lion_098765>CHEKUTHAN</a>
+<a href=https://t.me/rrmovie0987>Request group </a>
+
+
     HELP_TXT = """Hey {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
@@ -15,7 +18,7 @@ A BOT BY <a href=https://t.me/Lion_098765>CHEKUTHAN</a>"""
    #ALERT MSG PMFILTER
     ABT_TXT = """ My name
 
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: 𝗥𝗦 CHEKUTHANᡃᡃᡃᡃᡃᡃᡃᡃᡃᡃᡃᡃᡃᡃᡃᡃᡃᡃᡃ 1.0ࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣧࣧࣧࣧࣧ⸙ꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋࣩࣩ
+✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: @Lion_098765
 
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼 V2
 
