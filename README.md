@@ -1,18 +1,18 @@
 <p align="center">
-  <img src="assets/logo.jpg" alt="KuttuBot">
+  <img src="assets/logo.jpg" alt="BOT ZONE">
 </p>
 <h1 align="center">
   <b>Kuttu Bot</b>
 </h1>
 
 
-[![Stars](https://img.shields.io/github/stars/GouthamSER/EvaMaria?style=flat-square&color=yellow)](https://github.com/GouthamSER/EvaMaria/stargazers)
-[![Forks](https://img.shields.io/github/forks/GouthamSER/EvaMaria?style=flat-square&color=orange)](https://github.com/GouthamSER/EvaMaria/fork)
-[![Size](https://img.shields.io/github/repo-size/GouthamSER/EvaMaria?style=flat-square&color=green)](https://github.com/GouthamSER/EvaMaria/)   
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/GouthamSER/EvaMaria)   
-[![Contributors](https://img.shields.io/github/contributors/GouthamSER/EvaMaria?style=flat-square&color=green)](https://github.com/GouthamSER/EvaMaria/graphs/contributors)
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/GouthamSER/EvaMaria/blob/main/LICENSE)
-[![Sparkline](https://stars.medv.io/GouthamSER/EvaMaria.svg)](https://stars.medv.io/GouthamSER/EvaMaria)
+[![Stars](https://img.shields.io/github/stars/ChekuthanX3/EvaMaria?style=flat-square&color=yellow)](https://github.com/ChekuthanX3/EvaMaria/stargazers)
+[![Forks](https://img.shields.io/github/forks/ChekuthanX3/EvaMaria?style=flat-square&color=orange)](https://github.com/ChekuthanX3/EvaMaria/fork)
+[![Size](https://img.shields.io/github/repo-size/ChekuthanX3/EvaMaria?style=flat-square&color=green)](https://github.com/ChekuthanX3/EvaMaria/)   
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ChekuthanX3/EvaMaria)   
+[![Contributors](https://img.shields.io/github/contributors/ChekuthanX3/EvaMaria?style=flat-square&color=green)](https://github.com/ChekuthanX3/EvaMaria/graphs/contributors)
+[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/ChekuthanX3/EvaMaria/blob/main/LICENSE)
+[![Sparkline](https://stars.medv.io/ChekuthanX3/EvaMaria.svg)](https://stars.medv.io/ChekuthanX3/EvaMaria)
 
 
 ## Features
@@ -42,8 +42,8 @@ Read [this](https://telegram.dog/TeamEvamaria/12) before you start messing up wi
 * `API_HASH`: Get this value from [telegram.org](https://my.telegram.org/apps)
 * `CHANNELS`: Username or ID of channel or group. Separate multiple IDs by space
 * `ADMINS`: Username or ID of Admin. Separate multiple Admins by space
-* `DATABASE_URI`: [mongoDB](https://www.mongodb.com) URI. Get this value from [mongoDB](https://www.mongodb.com). For more help watch this [video](https://youtu.be/1G1XwEOnxxo)
-* `DATABASE_NAME`: Name of the database in [mongoDB](https://www.mongodb.com). For more help watch this [video](https://youtu.be/1G1XwEOnxxo)
+* `DATABASE_URI`: [mongoDB](https://www.mongodb.com) URI. Get this value from [mongoDB](https://www.mongodb.com).
+* `DATABASE_NAME`: Name of the database in [mongoDB](https://www.mongodb.com). 
 * `LOG_CHANNEL` : A channel to log the activities of bot. Make sure bot is an admin in the channel.
 ### Optional Variables
 * `PICS`: Telegraph links of images to show in start message.( Multiple images can be used separated by space )
@@ -54,7 +54,7 @@ Read [this](https://telegram.dog/TeamEvamaria/12) before you start messing up wi
 ## Deploy
 You can deploy this bot anywhere.
 
-<i>**[Watch Deploying Tutorial...](https://youtu.be/1G1XwEOnxxo)**</i>
+
 
 <details><summary>Deploy To Heroku</summary>
 <p>
