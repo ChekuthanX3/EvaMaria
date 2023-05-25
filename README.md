@@ -2,7 +2,7 @@
   <img src="assets/logo.jpg" alt="BOT ZONE">
 </p>
 <h1 align="center">
-  <b>Kuttu Bot</b>
+  <b>BOT ZONE</b>
 </h1>
 
 
